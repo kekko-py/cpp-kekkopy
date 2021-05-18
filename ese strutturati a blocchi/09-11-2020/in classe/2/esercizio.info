@@ -1,0 +1,10 @@
+Sono dati due elenchi di voli effettuati da diverse compagnie aeree; per ogni volo sono dati:
+
+codice,
+nome_compagnia, 
+tipo_aereo(a,b,c), 
+durata_volo, 
+capienza.
+
+1] Verificare se due voli del primo elenco hanno una durata minima inferiore a quella di 
+   un volo del secondo elenco.

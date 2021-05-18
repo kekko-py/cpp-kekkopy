@@ -1,0 +1,14 @@
+Sono dati 2 elenchi di persone, ogni persona è descritta da:
+
+codice
+altezza
+peso
+lavoro
+livello (a,b)
+
+1] Verificare se una persone del primo elenco è un impiegato avente un'altezza inferiore
+   a quella di un'altra persona del secondo elenco o è di livello diverso da quello di una terza persona 
+   del primo elenco.
+
+2] Calcolare il peso minimo e medio degli impiegati, o che svolgono
+   uno tra 2 generici lavori in entrambi gli elenchi e il massimo tra i 2 pesi minimi

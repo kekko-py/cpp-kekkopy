@@ -1,0 +1,6 @@
+Dati due elenchi di corpi celesti per ogni corpo celeste sono dati: tipo, massa, distanza dalla terra e nome.
+
+1. Calcolare la distanza media dei pianeti la cui massa è esterna a un generico intervallo in un elenco a scelta
+
+2. Calcolare la massa minima e massima dei corpi celesti di uno tra due generici tipi la cui distanza è diversa
+   da quella del corpo celeste corrispondente nel secondo elenco

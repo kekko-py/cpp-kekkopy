@@ -1,0 +1,11 @@
+TRACCIA:
+dati due elenchi di riviste, sono dati per ogni rivista:
+
+codice,
+periodicità, 
+settore, 
+casa editrice,
+prezzo.
+
+1) Calcolare il numero delle riviste di sport, il cui prezzo è compreso in un generico intervallo,
+   in entrambi gli elenchi;

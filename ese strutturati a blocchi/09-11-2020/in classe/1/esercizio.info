@@ -1,0 +1,13 @@
+Per ogni immobile sono dati:
+    -Codice 
+    -Zona(A,B,C,D,E) 
+    -Categoria 
+    -Metri Quadri
+
+1] Verificare se un immobbile del primo elenco appartiene alla stessa zona o a più mestri quadri 
+   di un altro immobbile dello stesso elenco ed è di Categoria lusso
+
+2] Trasferire in un terzo elenco gli immobili del primo che sono di una categoria
+     diversa da quella dell'immobile corrispondente 
+    del secondo elenco,
+     e in un quarto elenco i restanti immobili;

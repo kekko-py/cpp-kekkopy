@@ -1,0 +1,5 @@
+Ripetere i paradigmi di programmazione e i paradigma ad oggetti. Studiare la classe diz_stat 
+della quale si verificherà la conoscenza di corpo e metodi imparando anche a descrivere il 
+funzionamento dei metodi stessi. Svolgere due esercizi sulla gestione di dizionari su cui verteranno 
+le prove scritto-pratiche. Tracce su Classroom. Gli allievi assenti in questi ultimi giorni sono
+ tenuti a fare tutti gli esercizi finora assegnati e quelli svolti in classe. (Assegnati il 22/12/2020).

@@ -1,0 +1,20 @@
+4. Sono dati due elenchi di comuni. Per ogni comune sono dati: 
+
+codice, 
+nome, 
+numero abitanti, 
+superficie, 
+regione, 
+posizione (M per montano C per collina P per pianura), 
+tipo (grande, medio o piccolo) .
+
+4.1. Stampare la superficie media e il numero totale degli abitanti dei comuni di montagna, 
+    il minimo e il massimo numero di abitanti  tra i comuni di una tra due generiche regioni  
+    di un generico tipo in ciascun elenco e il totale complessivo nei due elenchi e il massimo 
+    tra le due superfici medie
+
+4.2. Aumentare di una generica percentuale la superficie dei comuni medi 
+    
+    della Campania 
+    aventi un numero di abitanti superiore ad un generico valore o maggiore di quello del comune corrispondente del secondo elenco 
+    se quest' ultimo è anch' esso della Campania.

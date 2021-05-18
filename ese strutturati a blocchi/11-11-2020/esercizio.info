@@ -1,0 +1,13 @@
+Sono dati due elenchi di immobili. Ogni immobile è descritto dai seguenti attributi:
+
+int codice;
+char zona;
+char categoria[LUNS];
+float metri_q;
+
+1) Stampare il prezzo minimo e quello massimo degli immobili  che si trovano nelle zone A,D,H;
+   quelli degli immobili che si trovano nelle zone B,F,G 
+   e quelli di tutti i restanti immobili
+   in entrambi gli elenchi; 
+   
+   Suggerimento usare la selezione multipla

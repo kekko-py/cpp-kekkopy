@@ -1,0 +1,47 @@
+1. Sono dati due elenchi di cantanti dove ogni cantante è descritto dai seguenti attributi:
+ -codice, 
+ -nome d'arte, 
+ -genere musicale (P pop, R rock, J Jazz), 
+ -numero dischi di platino,
+ -casa discografica (Universal, Warner, Sony), 
+ -età, 
+ -ingaggio, 
+ -posizione in classifica 
+ -sesso.
+
+1.1. Stampare il numero massimo di dischi di platino venduti in entrambi gli elenchi e il massimo
+numero dei dischi di platino in totale.
+
+1.2. Verificare se due cantanti nei due elenchi, uno nel primo e un altro nel secondo, sono entrambi
+cantanti pop e se l'ingaggio del primo è maggiore, minore o uguale a quello del secondo.
+
+1.3. Calcolare l'ingaggio minimo e massimo delle cantanti pop del primo elenco che appartengono a
+una tra due generiche case discografiche e che appartengono alla stessa casa discografica del
+cantante corrispondente nel secondo elenco.
+
+
+-------------------------------------------------------------------
+
+
+2. Sono dati due elenchi di comuni. Per ogni comune sono dati: 
+  -codice, 
+  -nome, 
+  -numero 
+  -abitanti, 
+  -superficie,
+  -regione, 
+  -posizione (M per montano C per collina P per pianura), 
+  -tipo (grande, medio o piccolo).
+
+2.1. Stampare la superficie media e il numero totale degli abitanti dei comuni di montagna, il minimo e
+il massimo numero di abitanti tra i comuni di una tra due generiche regioni di un generico tipo in
+ciascun elenco e il totale complessivo nei due elenchi e il massimo tra le due superfici medie
+2.2. Verificare se due comuni del secondo elenco hanno superficie minima compresa in un generico
+intervallo e appartengono ad una generica regione
+2.3. Stampare la superficie minima e quella massima dei comuni che si trovano in pianura o hanno
+superficie superiore ad un generico valore in entrambi gli elenchi e il minimo tra le due superfici
+minime
+2.4. Verificare se un comune del primo elenco si trova in pianura o ha superficie compresa nell'
+intervallo che ha come estremi la superficie di due comuni del secondo elenco.
+2.5. [Facoltativo] Verificare se due comuni di un elenco a scelta hanno superficie media superiore a
+quella media dei comuni dell' altro elenco

@@ -1,0 +1,13 @@
+  1. Dati due elenchi di riviste, per ogni rivista sono dati:
+    codice,
+    settore, 
+    periodicità,
+    casa editrice
+    prezzo.
+    
+     Calcolare:
+        1.1. Il prezzo minimo delle riviste settimanali pubblicate dalla Mondadori 
+            in un elenco a scelta
+            
+        1.2. Verificare se una rivista del secondo elenco è di uno tra due generici 
+             settori e appartiene alla stessa case editrice di un'altra rivista dello stesso elenco.

@@ -1,0 +1,12 @@
+
+Sono dati due elenchi contenenti le seguenti informazioni sui prodotti venduti in due aziende
+conserviere:
+codice, tipo, peso.
+
+Si scriva un programma che consenta, a scelta, di:
+1. stampare in un elenco a scelta le informazioni su uno specifico prodotto 
+   verificando se il suo peso è superiore ad a quello di un altro prodotto dell' altro elenco.
+2. Verificare se il prezzo medio di due prodotti del primo elenco è superiore
+   al prezzo di un prodotto del secondo elenco.
+2. calcolare il peso medio dei succhi per ognuno dei due elenchi e quello minimo
+    tra i due pesi medi così ottenuti

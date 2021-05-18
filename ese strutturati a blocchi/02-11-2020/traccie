@@ -1,0 +1,30 @@
+Esercizio 1
+Sono dati due elenchi di libri. Le informazioni su ogni libro sono:
+Codice, autore, anno di pubblicazione, prezzo, genere ( E’ RAPPRESENTATO DA UNA SINGOLA LETTERA : F per fantasy, A per avventura, B per biografia, G per giallo)
+    1. Verificare se un libro del primo elenco è stato pubblicato in un generico intervallo di tempo ed è di un generico genere o ha lo stesso anno di pubblicazione di un libro del secondo elenco.
+    2. Stampare il numero di libri di genere giallo scritti in uno tra due generici anni di pubblicazione nel primo elenco, nel secondo e in totale nei due elenchi
+
+Esercizio 2
+Sono dati due elenchi di corpi celesti.  Ogni corpo celeste è descritto dai seguenti attributi: Codice, nome, tipo ( E’ RAPPRESENTATO DA UNA SINGOLA LETTERA : S per stella, P per pianeta, Q per quasar, G per galassia), distanza dal sole, massa.
+    1) Verificare se un corpo celeste del primo elenco ha un generico nome ed è dello stesso tipo di un corpo celeste del secondo elenco o ha una distanza dal sole superiore ad un generico valore diminuendo la sua massa del 2%.
+    2) Stampare la distanza media dal sole dei corpi celesti di tipo stella che hanno una massa superiore ad un generico valore in un elenco a scelta aumentandone la massa di una generica percentuale.
+
+___________________________________________________
+[Esercizio 3]
+Dati 2 elenchi di Corpi Celesti:
+    - Codice
+    - Nome
+    - Tipo
+    - Massa
+    - Distanza dal sole
+----------------
+1] Verificare se 2 corpi celesti del secondo elenco sono di tipo diverso e se la massa 
+   del primo è superiore del secondo.
+
+2] Stampare la distanza massima dal sole dei corpi celesti di tipo stella, la distanza
+   minima e media dei corpi celesti di tipo pianeta  nel secondo elenco.
+___________________________________________________
+
+
+[Esercizio 4]
+1] Verificare se 2 pianeti del primo elenco sono di tipo diverso una distanza dal sole minore di un generico valore.

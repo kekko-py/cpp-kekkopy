@@ -1,0 +1,16 @@
+Sono dati due elenchi di cantanti dove ogni cantante è descritto dai seguenti attributi: 
+-codice, 
+-nome d’arte, 
+-genere musicale (P pop, R rock, J Jazz), 
+-numero dischi di platino, 
+-casa discografica (Universal, Warner, Sony), 
+-età, 
+-ingaggio, 
+-posizione in classifica, 
+-sesso.
+
+1) verificare se un cantante del primo elenco è di genere rock o jazz e se ha la stessa posizione 
+   in classifica di due cantanti del secondo elenco.
+
+2) Calcolare il numero minimo di dischi di platino dei camtanti di un generico genere in entrambi gli
+   elenchi e il massimo tra i due minimi

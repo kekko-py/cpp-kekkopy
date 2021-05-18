@@ -1,0 +1,10 @@
+Dati due elenchi di opere d’arte descritte da:
+
+codice,
+nome, 
+tipo (S,D,A), 
+autore, 
+valore,
+Anno
+
+Il numero di sculture realizzate da Bernini o da Donatello in un elenco a scelta

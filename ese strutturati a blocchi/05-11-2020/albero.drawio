@@ -1,0 +1,162 @@
+<mxfile host="65bd71144e" modified="2020-11-07T07:07:06.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.50.1 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36" etag="NvqTcNZx3VuDs59mk9qY" version="13.6.5">
+    <diagram id="t-ZDDujmPhS7KHESAUoj" name="Pagina-1">
+        <mxGraphModel dx="949" dy="2849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-1" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;P&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="-2338" width="68" height="68" as="geometry"/>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-2" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IPE7AgSTdYtW8we0NMha-1" target="IPE7AgSTdYtW8we0NMha-3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="-2119" as="sourcePoint"/>
+                        <mxPoint x="260" y="-2240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Inizializzare due elenchi di libri&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="-2240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-5" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="200" y="-2120" as="sourcePoint"/>
+                        <mxPoint x="140" y="-2180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-6" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="-2120" as="sourcePoint"/>
+                        <mxPoint x="140" y="-2180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-7" value="Inizializzare il secondo elenco" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="-2120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-8" value="Inizializzare il primo elenco" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="-2120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-9" value="" style="endArrow=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.088;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IPE7AgSTdYtW8we0NMha-1" target="IPE7AgSTdYtW8we0NMha-10" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="-2040" as="sourcePoint"/>
+                        <mxPoint x="440" y="-2090" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-10" value="Ripetere: stampa menu, lettura scelta, effettuazione operazione scelta finché l'utente vuole continuare" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="-2230" width="240" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-11" value="stampa menu e lettura scelta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="-2140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-12" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="IPE7AgSTdYtW8we0NMha-11" target="IPE7AgSTdYtW8we0NMha-10" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="-2050" as="sourcePoint"/>
+                        <mxPoint x="440" y="-2100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-13" value="inizializza" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry x="0.7333" width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="90" y="-2150" as="sourcePoint"/>
+                        <mxPoint x="240" y="-2150" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-14" value="menu" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry x="-0.8182" width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="-2150" as="sourcePoint"/>
+                        <mxPoint x="540" y="-2150" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-15" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;se scelta vale 1, verificare se... in un elenco a scelta&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="-1970" width="160" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-16" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="IPE7AgSTdYtW8we0NMha-15" target="IPE7AgSTdYtW8we0NMha-10" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="-2060" as="sourcePoint"/>
+                        <mxPoint x="440" y="-2110" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-17" value="punto1" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry x="-0.8333" width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="-2000" as="sourcePoint"/>
+                        <mxPoint x="340" y="-2000" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-33" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IPE7AgSTdYtW8we0NMha-10" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="655" y="-2130" as="sourcePoint"/>
+                        <mxPoint x="660" y="-1970" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IPE7AgSTdYtW8we0NMha-35" value="se scelta vale 2, calcolare i D.F.P2 nel secondo elenco" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="-1970" width="160" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-1" value="leggere l'elenco su cui si vuole operare" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="-1800" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-2" value="" style="endArrow=none;html=1;entryX=0.142;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="frDiDD3gZIe1q3mwSuNl-1" target="IPE7AgSTdYtW8we0NMha-15" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="-1900" as="sourcePoint"/>
+                        <mxPoint x="440" y="-1950" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-3" value="menu_el" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry x="-0.5" width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="20" y="-1840" as="sourcePoint"/>
+                        <mxPoint x="100" y="-1840" as="targetPoint"/>
+                        <Array as="points"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-4" value="verificare se... nell'elenco scelto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="-1800" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-6" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="frDiDD3gZIe1q3mwSuNl-4" target="IPE7AgSTdYtW8we0NMha-15" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="-1910" as="sourcePoint"/>
+                        <mxPoint x="440" y="-1960" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-7" value="verifica_p1" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry x="0.75" width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="-1840" as="sourcePoint"/>
+                        <mxPoint x="240" y="-1840" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-10" value="punto2" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry x="-0.8182" width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="580" y="-2000" as="sourcePoint"/>
+                        <mxPoint x="690" y="-2000" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-12" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="-1660" as="sourcePoint"/>
+                        <mxPoint x="200" y="-1740" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-13" value="leggere e ricercare il libro nell'elenco scelto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="-1660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-14" value="" style="endArrow=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="frDiDD3gZIe1q3mwSuNl-16" target="frDiDD3gZIe1q3mwSuNl-4" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="-1670" as="sourcePoint"/>
+                        <mxPoint x="440" y="-1680" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-16" value="se trovato, verificare se..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="-1660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="frDiDD3gZIe1q3mwSuNl-17" value="ric_seq" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry x="-0.75" width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="-1680" as="sourcePoint"/>
+                        <mxPoint x="200" y="-1680" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

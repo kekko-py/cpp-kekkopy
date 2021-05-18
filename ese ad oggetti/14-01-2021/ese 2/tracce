@@ -1,0 +1,15 @@
+  4. Sono dati due elenchi di comuni. Per ogni comune sono dati:
+     codice, 
+     nome, 
+     numero abitanti, 
+     superficie, 
+     regione, 
+     posizione (M per montano C per collina P per pianura), 
+     tipo (grande, medio o piccolo) .
+      
+4.1. Aumentare di una generica percentuale la superficie dei comuni medi della Campania 
+     aventi un numero di abitanti superiore ad un generico valore o maggiore di quello del
+     comune corrispondente del secondo elenco se quest' ultimo è anch' esso della Campania.
+     
+        4.2. Stampare la superficie minima e quella massima dei comuni che si trovano in pianura o hanno superficie superiore ad un generico valore aumentandone del 2%  la superficie in entrambi gli elenchi e il minimo tra le due superfici minime
+        4.3. Verificare se un comune del primo elenco si trova in pianura o ha superficie compresa nell' intervallo che ha come estremi la superficie di due comuni del secondo elenco. In caso positivo aumentare del 2%  la superficie del comune del primo elenco.

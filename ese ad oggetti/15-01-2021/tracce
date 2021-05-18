@@ -1,0 +1,17 @@
+dai 2 elenchi di piloti di formula 1: 
+    codice, 
+    nazionalità, 
+    scuderia, 
+    numero campionati vinti, 
+    numero di pole position,
+    ingaggio
+
+
+
+10.1. Verificare se due piloti del primo elenco appartengono a scuderie diverse e 
+      il primo dei due ha ingaggio superiore a quello di un pilota del secondo elenco
+        
+        
+10.2. Calcolare l'ingaggio minimo  e quello massimo dei piloti di una tra due generiche scuderie,
+      l'ingaggio medio dei piloti di nazionalità francese che hanno vinto un numero di campionati 
+      esterno ad un generico intervallo in entrambi gli elenchi e il minimo tra i due ingaggi medi.

@@ -1,0 +1,7 @@
+Esercizio:
+Sono dati due elenchi di libri. Le informazioni su ogni libro sono:
+Codice, autore,anno di pubblicazione,prezzo, genere ( E’ RAPPRESENTATO DA UNA SINGOLA LETTERA : F per fantasy, A per avventura, B per biografia, G per giallo)
+    1. Verificare in un elenco a scelta se uno specifico libro è stato scritto da un generico
+       autore e dalla casa editrice “Mondadori” o è di un generico genere.
+    2. Determinare il prezzo medio dei libri pubblicati dall’autore Lorenzi all’esterno
+       di un generico intervallo di tempo nel secondo elenco
